@@ -13,7 +13,7 @@
 
  <h2><strong>About me</strong></h2>
 
-<img align="right" alt="garoto estudando no  computador" max-height="320px" max-width="320px" src="src/img/boycoding2.png">
+<img align="right" alt="garoto estudando no  computador" height="320px" width="320px" src="src/img/boycoding2.png">
 
 <div aling="left">
 <p align="justify" > Desenvolvedor Front-End Júnior em ascensão, com habilidades em HTML, CSS, JavaScript, TypeScript e Angular, aliadas a conhecimentos em design gráfico. Integro estética e funcionalidade no desenvolvimento de interfaces, criando experiências visuais atraentes e intuitivas.
