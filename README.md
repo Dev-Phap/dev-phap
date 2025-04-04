@@ -1,8 +1,3 @@
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A0C9C&width=435&lines=%E2%9D%80+%E2%97%86+%E2%97%87+++Welcome+to+my+profile+!++%E2%97%87+%E2%97%86++%E2%9D%80" alt="Typing SVG" />
-    </a>
-</div>
 
 # 
 
@@ -10,9 +5,15 @@
 
 # 
 
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A0C9C&width=435&lines=%E2%9D%80+%E2%97%86+%E2%97%87+++Welcome+to+my+profile+!++%E2%97%87+%E2%97%86++%E2%9D%80" alt="Typing SVG" />
+    </a>
+</div>
+
  <h2><strong>About me</strong></h2>
 
-<img align="right" alt="" height="320px" width="320" src="src/gifs/developer.gif">
+<img align="right" alt="garoto estudando no  computador" max-height="320px" max-width="320px" src="src/img/boycoding2.png">
 
 <div aling="left">
 <p align="justify" > Desenvolvedor Front-End Júnior em ascensão, com habilidades em HTML, CSS, JavaScript, TypeScript e Angular, aliadas a conhecimentos em design gráfico. Integro estética e funcionalidade no desenvolvimento de interfaces, criando experiências visuais atraentes e intuitivas.
