@@ -1,17 +1,15 @@
 
 <div align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=9F0EB3&width=435&lines=%E2%9D%80+%E2%97%86+%E2%97%87+++Welcome+to+my+profile+!++%E2%97%87+%E2%97%86+%E2%9D%80" alt="Typing SVG" />
-    </a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=940DA7&vCenter=true&width=435&lines=%E2%9D%80++%E2%97%87+++Welcome+to+my+profile+!++%E2%97%87++%E2%9D%80" alt="Typing SVG" /></a>
 </div>
 
 # 
 
-<img align="center" alt="" src="src/gifs/mario.gif"> 
+<img align="center" alt="" height="350px" width="100%" src="src/gifs/mario.gif"> 
 
-# 
+</br>
 
-<h2 align="center" style="font-size:25px">❖ About me ❖ </h2> 
+<h2 align="center" >❖ About me ❖ </h2> </br></br>
 
 
 <!-- <img align="right" alt="garoto estudando no  computador" height="200px" width="200px" src=""> apos formatar no ps com margins transparentes colocar aqui.  -->
@@ -31,35 +29,37 @@ Com uma abordagem multidisciplinar, busco soluções criativas e eficientes para
 </div>
 
 
-#
+
+</br>
 
 
+<h2 align="center" >❖ Connect with me! ❖</h2>
+</br>
+<div align="center">
 
-<h2 align="center" style="font-size:25px">❖ Connect with me! ❖</h2>
-
-[![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phap1802@gmail.com)
-
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloalmeidapinto/)
-
-
+[![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phap1802@gmail.com)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloalmeidapinto/)&nbsp;&nbsp;
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511983994412)
 
+</div>
+
+</br>
 
 
-<h2 align="center" style="font-size:25px">❖ My Stack ❖ </h2>
-
+<h2 align="center" >❖ My Stack ❖ </h2>
+</br>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,angular,react,nodejs,tailwind,bootstrap,git,github,&theme=dark" />
   
 </div>
 
             
-          
-#
+</br>       
+
 
 <div style="text-align: center;" align="center">
-  <h3 style="font-size:25px">❖ GitHub Stats ❖</h3>
+   
+  <h2>❖ GitHub Stats ❖</h2>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mari4souza&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
 
@@ -68,11 +68,13 @@ Com uma abordagem multidisciplinar, busco soluções criativas e eficientes para
   </a>
 </div>
 
-
 #
+</br>
 
-<picture>
+<div align="center">
+<picture >
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Phap/dev-phap/gh-pages/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Phap/dev-phap/gh-pages/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Dev-Phap/dev-phap/gh-pages/github-contribution-grid-snake.svg">
 </picture>
+</div>
