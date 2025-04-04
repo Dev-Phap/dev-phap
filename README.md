@@ -9,7 +9,7 @@
 
 </br>
 
-<h2 align="center" >❖ About me ❖ </h2> </br></br>
+<h2 align="center" >❖ About me ❖ </h2> </br>
 
 
 <!-- <img align="right" alt="garoto estudando no  computador" height="200px" width="200px" src=""> apos formatar no ps com margins transparentes colocar aqui.  -->
