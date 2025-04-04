@@ -1,21 +1,22 @@
 
-# 
-
-<!-- <img align="center" alt="" src="src/gifs/mario.gif"> -->
-
-# 
-
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A0C9C&width=435&lines=%E2%9D%80+%E2%97%86+%E2%97%87+++Welcome+to+my+profile+!++%E2%97%87+%E2%97%86++%E2%9D%80" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=9F0EB3&width=435&lines=%E2%9D%80+%E2%97%86+%E2%97%87+++Welcome+to+my+profile+!++%E2%97%87+%E2%97%86+%E2%9D%80" alt="Typing SVG" />
     </a>
 </div>
 
- <h2><strong>About me</strong></h2>
+# 
 
-<img align="right" alt="garoto estudando no  computador" height="200px" width="200px" src="src/gifs/mario.gif">
+<img align="center" alt="" src="src/gifs/mario.gif"> 
 
-<div aling="left">
+# 
+
+<h2 align="center" style="font-size:25px">❖ About me ❖ </h2> 
+
+
+<!-- <img align="right" alt="garoto estudando no  computador" height="200px" width="200px" src=""> apos formatar no ps com margins transparentes colocar aqui.  -->
+
+<div aling="center">
 <p align="justify" > Desenvolvedor Front-End Júnior em ascensão, com habilidades em HTML, CSS, JavaScript, TypeScript e Angular, aliadas a conhecimentos em design gráfico. Integro estética e funcionalidade no desenvolvimento de interfaces, criando experiências visuais atraentes e intuitivas.
 <br>
 Com uma abordagem multidisciplinar, busco soluções criativas e eficientes para a construção de sites e aplicações interativas. Estou em constante evolução, atualizando meus conhecimentos e abraçando novos desafios na área de tecnologia.
@@ -34,7 +35,7 @@ Com uma abordagem multidisciplinar, busco soluções criativas e eficientes para
 
 
 
-<h2 align="left">Connect with me!</h2>
+<h2 align="center" style="font-size:25px">❖ Connect with me! ❖</h2>
 
 [![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phap1802@gmail.com)
 
@@ -46,9 +47,9 @@ Com uma abordagem multidisciplinar, busco soluções criativas e eficientes para
 
 
 
-<h2 align="left">My Stack ~</h2>
+<h2 align="center" style="font-size:25px">❖ My Stack ❖ </h2>
 
-<div align="left">
+<div align="center">
 <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,angular,react,nodejs,tailwind,bootstrap,git,github,&theme=dark" />
   
 </div>
@@ -58,7 +59,7 @@ Com uma abordagem multidisciplinar, busco soluções criativas e eficientes para
 #
 
 <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
+  <h3 style="font-size:25px">❖ GitHub Stats ❖</h3>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mari4souza&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
 
