@@ -13,7 +13,7 @@
 
  <h2><strong>About me</strong></h2>
 
-<img align="right" alt="garoto estudando no  computador" height="300px" width="400px" src="src/gifs/mario.gif">
+<img align="right" alt="garoto estudando no  computador" height="200px" width="200px" src="src/gifs/mario.gif">
 
 <div aling="left">
 <p align="justify" > Desenvolvedor Front-End Júnior em ascensão, com habilidades em HTML, CSS, JavaScript, TypeScript e Angular, aliadas a conhecimentos em design gráfico. Integro estética e funcionalidade no desenvolvimento de interfaces, criando experiências visuais atraentes e intuitivas.
@@ -36,8 +36,13 @@ Com uma abordagem multidisciplinar, busco soluções criativas e eficientes para
 
 <h2 align="left">Connect with me!</h2>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:phap1802@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/pauloalmeidapinto/)
+[![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phap1802@gmail.com)
+
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloalmeidapinto/)
+
+
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511983994412)
 
 
 
