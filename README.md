@@ -15,7 +15,7 @@
 <!-- <img align="right" alt="garoto estudando no  computador" height="200px" width="200px" src=""> apos formatar no ps com margins transparentes colocar aqui.  -->
 
 <div aling="center">
-<p align="justify" > Desenvolvedor Front-End Júnior em ascensão, com habilidades em HTML, CSS, JavaScript, TypeScript e Angular, aliadas a conhecimentos em design gráfico. Integro estética e funcionalidade no desenvolvimento de interfaces, criando experiências visuais atraentes e intuitivas.
+<p align="justify" > Desenvolvedor Front-End Júnior em ascensão, com habilidades em HTML, CSS, JavaScript, TypeScript, Angular e React, aliadas a conhecimentos em design gráfico. Integro estética e funcionalidade no desenvolvimento de interfaces, criando experiências visuais atraentes e intuitivas.
 <br>
 Com uma abordagem multidisciplinar, busco soluções criativas e eficientes para a construção de sites e aplicações interativas. Estou em constante evolução, atualizando meus conhecimentos e abraçando novos desafios na área de tecnologia.
 </p>
@@ -23,9 +23,9 @@ Com uma abordagem multidisciplinar, busco soluções criativas e eficientes para
 
 
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Meu objetivo atual é me tornar um Desenvolvedor Full Stack<br/>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Minhas tecnologias principais são HTML5, CSS3, JavaScript com Angular.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Tenho paixão por aprender e aplicar esses conhecimentos na criação de soluções inovadoras que unam tecnologia e design de forma estratégica.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Meu objetivo é de me tornar Full Stack e construir soluções completas do back ao front.<br/>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Minhas tecnologias principais são HTML5, CSS3, JavaScript, Anuglar e React.<br/>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Tenho paixão por aprender e aplicar esses conhecimentos na criação de soluções inovadoras que unam tecnologia e design de forma estratégica.<br/>
 </div>
 
 
@@ -46,10 +46,10 @@ Com uma abordagem multidisciplinar, busco soluções criativas e eficientes para
 </br>
 
 
-<h2 align="center" >❖ My Stack ❖ </h2>
+<h2 align="center" >❖ My Skills ❖ </h2>
 </br>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,angular,react,nodejs,tailwind,bootstrap,git,github,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,html,css,sass,js,ts,angular,react,nodejs,tailwind,bootstrap,git,github,mysql,figma,&theme=dark" />
   
 </div>
 
