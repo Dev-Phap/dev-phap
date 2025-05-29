@@ -49,7 +49,7 @@ Com uma abordagem multidisciplinar, busco soluções criativas e eficientes para
 <h2 align="center" >❖ My Skills ❖ </h2>
 </br>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vscode,html,css,sass,js,ts,angular,react,nodejs,tailwind,bootstrap,git,github,mysql,figma,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,html,css,sass,js,ts,angular,react,python,tailwind,bootstrap,git,github,mysql,figma,&theme=dark" />
   
 </div>
 
