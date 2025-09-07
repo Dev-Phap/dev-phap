@@ -15,7 +15,15 @@
 <!-- <img align="right" alt="garoto estudando no  computador" height="200px" width="200px" src=""> apos formatar no ps com margins transparentes colocar aqui.  -->
 
 <div aling="center">
-<p align="justify" > Desenvolvedor Front-End Júnior em ascensão, com habilidades em HTML, CSS, JavaScript, TypeScript, Angular e React, aliadas a conhecimentos em design gráfico. Integro estética e funcionalidade no desenvolvimento de interfaces, criando experiências visuais atraentes e intuitivas.
+<p align="justify" > Sou Bacharel em Sistemas de Informação pela Uninove. Sempre fui fascinado pelo mundo da tecnologia e, ao longo da minha trajetória, explorei diversas áreas até me encontrar no Desenvolvimento Web, iniciando pelo Front-End e agora expandindo para o Back-End, com o objetivo de consolidar minha carreira como Full Stack Developer.
+
+Tenho boa base em HTML, CSS e JavaScript, além de conhecimentos iniciais em TypeScript, Angular e React. Utilizo ferramentas como Bootstrap e Tailwind, e aplico Git e GitHub para versionamento e colaboração em projetos.
+
+Nos últimos meses, venho aprofundando meus estudos em C# com ASP.NET (MVC), arquitetura em três camadas (Model, Business e Data Access) e SQL Server, ampliando meu conhecimento para o desenvolvimento Back-End.
+
+Além da parte técnica, também faço uso de ferramentas que apoiam o fluxo de trabalho, como Figma (protótipos), Miro (diagramas e fluxogramas), Trello (gestão de tarefas) e Draw.io (modelagem visual).
+
+Estou em constante aprendizado e motivado a contribuir com projetos que unam tecnologia, inovação e UX/UI design, entregando soluções estratégicas e eficientes.
 <br>
 Com uma abordagem multidisciplinar, busco soluções criativas e eficientes para a construção de sites e aplicações interativas. Estou em constante evolução, atualizando meus conhecimentos e abraçando novos desafios na área de tecnologia.
 </p>
@@ -49,7 +57,7 @@ Com uma abordagem multidisciplinar, busco soluções criativas e eficientes para
 <h2 align="center" >❖ My Skills ❖ </h2>
 </br>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vscode,html,css,sass,js,ts,angular,react,python,tailwind,bootstrap,git,github,mysql,figma,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,html,css,sass,js,ts,angular,react,cs,tailwind,bootstrap,git,github,figma,&theme=dark" />
   
 </div>
 
