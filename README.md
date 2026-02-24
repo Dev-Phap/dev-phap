@@ -19,7 +19,7 @@
 
 Tenho boa base em HTML, CSS e JavaScript, além de conhecimentos iniciais em TypeScript, Angular e React. Utilizo ferramentas como Bootstrap e Tailwind, e aplico Git e GitHub para versionamento e colaboração em projetos.
 
-Nos últimos meses, venho aprofundando meus estudos em C# com ASP.NET (MVC), arquitetura em três camadas (Model, Business e Data Access) e SQL Server, ampliando meu conhecimento para o desenvolvimento Back-End.
+Nos últimos meses, venho aprofundando meus estudos em C# com ASP.NET (MVC), arquitetura em três camadas (Model, Business e Data Access), SQL Server, Entity Framework Core, ampliando meu conhecimento para o desenvolvimento Back-End.
 
 Além da parte técnica, também faço uso de ferramentas que apoiam o fluxo de trabalho, como Figma (protótipos), Miro (diagramas e fluxogramas), Trello (gestão de tarefas) e Draw.io (modelagem visual).
 
@@ -32,7 +32,7 @@ Com uma abordagem multidisciplinar, busco soluções criativas e eficientes para
 
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Meu objetivo é de me tornar Full Stack e construir soluções completas do back ao front.<br/>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Minhas tecnologias principais são HTML5, CSS3, JavaScript, Anuglar e React.<br/>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Minhas tecnologias principais são HTML5, CSS3, JavaScript, React e C#.<br/>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Tenho paixão por aprender e aplicar esses conhecimentos na criação de soluções inovadoras que unam tecnologia e design de forma estratégica.<br/>
 </div>
 
