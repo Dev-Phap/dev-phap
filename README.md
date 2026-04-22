@@ -15,24 +15,23 @@
 <!-- <img align="right" alt="garoto estudando no  computador" height="200px" width="200px" src=""> apos formatar no ps com margins transparentes colocar aqui.  -->
 
 <div aling="center">
-<p align="justify" > Sou Bacharel em Sistemas de Informação pela Uninove. Sempre fui fascinado pelo mundo da tecnologia e, ao longo da minha trajetória, explorei diversas áreas até me encontrar no Desenvolvimento Web, iniciando pelo Front-End e agora expandindo para o Back-End, com o objetivo de consolidar minha carreira como Full Stack Developer.
+<p align="justify" >Sou Bacharel em Sistemas de Informação pela Uninove, com foco em Desenvolvimento Web Full Stack (C# | .NET | React).
 
-Tenho boa base em HTML, CSS e JavaScript, além de conhecimentos iniciais em TypeScript, Angular e React. Utilizo ferramentas como Bootstrap e Tailwind, e aplico Git e GitHub para versionamento e colaboração em projetos.
+No Front-End, utilizo minha experiência com HTML, CSS, Bootstrap e Tailwind para construir interfaces funcionais e fiéis aos requisitos visuais. Atualmente, estou consolidando meus conhecimentos iniciais em React, aplicando-os no desenvolvimento de componentes responsivos e bem estruturados que facilitem a interação do usuário final (Designer UX/UI).
 
-Nos últimos meses, venho aprofundando meus estudos em C# com ASP.NET (MVC), arquitetura em três camadas (Model, Business e Data Access), SQL Server, Entity Framework Core, ampliando meu conhecimento para o desenvolvimento Back-End.
+No Back-End, venho me especializando no ecossistema Microsoft, desenvolvendo com ASP.NET Core (MVC) e APIs RESTful. Aplico conceitos de Programação Orientada a Objetos (POO), arquitetura em camadas e Clean Architecture, além de integração com SQL Server utilizando Entity Framework Core. Possuo conhecimentos iniciais em Cloud Computing com Azure, incluindo Azure SQL, Azure Storage, App Services e Azure Functions (Serverless).
 
-Além da parte técnica, também faço uso de ferramentas que apoiam o fluxo de trabalho, como Figma (protótipos), Miro (diagramas e fluxogramas), Trello (gestão de tarefas) e Draw.io (modelagem visual).
+Utilizo IA Generativa como apoio no desenvolvimento, auxiliando na otimização de código, revisão de lógica e aceleração do aprendizado técnico. Além disso, utilizo ferramentas como Figma, Miro e Trello para garantir organização e visão estratégica, com Git e GitHub para versionamento.
 
-Estou em constante aprendizado e motivado a contribuir com projetos que unam tecnologia, inovação e UX/UI design, entregando soluções estratégicas e eficientes.
 <br>
-Com uma abordagem multidisciplinar, busco soluções criativas e eficientes para a construção de sites e aplicações interativas. Estou em constante evolução, atualizando meus conhecimentos e abraçando novos desafios na área de tecnologia.
+Estou em constante evolução, buscando contribuir com projetos que integrem tecnologia, cloud e design de forma estratégica e eficiente.
 </p>
   
 
 
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Meu objetivo é de me tornar Full Stack e construir soluções completas do back ao front.<br/>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Minhas tecnologias principais são HTML5, CSS3, JavaScript, React e C#.<br/>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Minhas tecnologias principais são HTML5, CSS3, JavaScript, React, C# e ASP.NET Core<br/>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Tenho paixão por aprender e aplicar esses conhecimentos na criação de soluções inovadoras que unam tecnologia e design de forma estratégica.<br/>
 </div>
 
@@ -57,8 +56,7 @@ Com uma abordagem multidisciplinar, busco soluções criativas e eficientes para
 <h2 align="center" >❖ My Skills ❖ </h2>
 </br>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,html,css,sass,js,ts,angular,react,cs,tailwind,bootstrap,git,github,figma,&theme=dark" />
-  
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,html,css,sass,js,react,cs,dotnet,azure,docker,mysql,mongodb,tailwind,bootstrap,git,github,figma&theme=dark" />
 </div>
 
             
