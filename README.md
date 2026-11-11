@@ -27,8 +27,8 @@ constante evolução, buscando construir soluções que integrem desenvolvimento
 software, análise de sistemas e infraestrutura em nuvem.
 </p>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Meu objetivo é consolidar minha carreira como Desenvolvedor Full Stack, Analista de Sistemas ou Analista de Cloud.<br/>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Tecnologias: HTML5 | CSS3 | JavaScript | React | C# | ASP.NET Core | SQL Server | AWS | Linux.<br/>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Meu objetivo de longo prazo é consolidade minha carreria em DevOps Engineering<br/>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Tecnologias: HTML5 | CSS3 | JavaScript| Typescript | React | C# | ASP.NET Core | SQL Server | AWS | Linux | Windows.<br/>
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Apaixonado por aprender e construir soluções reais que unam desenvolvimento, cloud e boas práticas de engenharia.<br/>
 
 </div>
